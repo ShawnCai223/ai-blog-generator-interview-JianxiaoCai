@@ -37,15 +37,15 @@ result = {
         "avg_cpc": 1.25
     }
 }
-# 1. 获取 HTML 内容
+
 html = result["content"]
 
-# 2. 替换占位链接
+
 html = html.replace("{AFF_LINK_1}", "https://example.com/product1")
 html = html.replace("{AFF_LINK_2}", "https://example.com/product2")
 
-# 3. 保存为 HTML 文件
+
 with open("example_wireless_earbuds.html", "w", encoding="utf-8") as f:
     f.write(html)
 
-print("✅ 成功写入 example_wireless_earbuds.html")
+print("Successfully get example_wireless_earbuds.html!")

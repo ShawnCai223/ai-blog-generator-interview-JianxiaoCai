@@ -23,14 +23,14 @@ Output only the HTML content.
 """
 
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",  # 或 "gpt-3.5-turbo"
+        model="gpt-3.5-turbo",
         messages=[{"role": "user", "content": prompt}],
         temperature=0.7
     )
 
     content = response.choices[0].message.content
 
-    # 替换链接
+    
     content = content.replace("{{AFF_LINK_1}}", "https://example.com/product1")
     content = content.replace("{{AFF_LINK_2}}", "https://example.com/product2")
     return content

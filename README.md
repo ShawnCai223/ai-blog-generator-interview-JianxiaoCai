@@ -1,4 +1,4 @@
-# AI Blog Generator – Take-Home Project
+# ai-blog-generator-interview-JianxiaoCai
 
 Author: Jianxiao Cai  
 Submission for: Hyperon Backend Internship Interview  
