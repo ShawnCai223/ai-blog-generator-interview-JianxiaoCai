@@ -62,9 +62,9 @@ Returns:
 {
   "keyword": "...",
   "seo": {
-    "search_volume": ...,
-    "keyword_difficulty": ...,
-    "avg_cpc": ...
+    "search_volume": "...",
+    "keyword_difficulty": "...",
+    "avg_cpc": "..."
   },
   "content": "<!DOCTYPE html>...</html>"
 }
@@ -85,10 +85,10 @@ An example blog post is included here:
 
 This HTML was generated using actual GPT model output, with affiliate link placeholders replaced.
 
-⸻
+---
 
-Author
+### Author
 
-Jianxiao Cai
-📧 shawn.jx.cai@gmail.com
-🔗 LinkedIn | GitHub
+**Jianxiao Cai**
+Mail: shawn.jx.cai@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jianxiao-shawn-cai/) | [GitHub](https://github.com/ShawnCai223/)
