@@ -87,7 +87,7 @@ This HTML was generated using actual GPT model output, with affiliate link place
 
 ---
 
-### Author
+## 📝 Author
 
 **Jianxiao Cai**
 
