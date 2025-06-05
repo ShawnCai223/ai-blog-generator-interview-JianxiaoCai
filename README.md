@@ -90,5 +90,7 @@ This HTML was generated using actual GPT model output, with affiliate link place
 ### Author
 
 **Jianxiao Cai**
+
 Mail: shawn.jx.cai@gmail.com
+
 [LinkedIn](https://www.linkedin.com/in/jianxiao-shawn-cai/) | [GitHub](https://github.com/ShawnCai223/)
