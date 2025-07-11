@@ -5,9 +5,9 @@ Given a keyword, it performs mock SEO analysis and generates a blog post in HTML
 It also supports daily scheduled post generation.
 
 ---
-### 🎥 Demo Presentation  
+### 🎥 Demo Presentation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5RJF4bPSbk?si=c-bMUa-n2bycypE7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Demo Presentation](https://img.youtube.com/vi/Y5RJF4bPSbk/0.jpg)](https://www.youtube.com/watch?v=Y5RJF4bPSbk)
 
 ---
 
